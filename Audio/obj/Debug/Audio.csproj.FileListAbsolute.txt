@@ -1,0 +1,11 @@
+G:\WORK\MyProjects\Audio\Audio\bin\Debug\Audio.exe.config
+G:\WORK\MyProjects\Audio\Audio\bin\Debug\Audio.exe
+G:\WORK\MyProjects\Audio\Audio\bin\Debug\Audio.pdb
+G:\WORK\MyProjects\Audio\Audio\bin\Debug\NAudio.dll
+G:\WORK\MyProjects\Audio\Audio\bin\Debug\NAudio.xml
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.csprojResolveAssemblyReference.cache
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.Form1.resources
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.Properties.Resources.resources
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.csproj.GenerateResource.Cache
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.exe
+G:\WORK\MyProjects\Audio\Audio\obj\Debug\Audio.pdb
